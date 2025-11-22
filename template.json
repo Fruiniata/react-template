@@ -1,6 +1,0 @@
-{
-    "name": "react-template",
-    "description": "Starter React + Vite + TailwindCSS + DaisyUI",
-    "keywords": ["react", "vite", "tailwind", "daisyui"],
-    "templateDir": "."
-}
